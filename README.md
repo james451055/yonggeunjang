@@ -1,4 +1,4 @@
-### Welcome to my GitHub!! 👋
+# Welcome to my GitHub!! 👋
  My name is Yong Geun Jang.
  I'm studying programming at Gachon Univ in Korea.
 
