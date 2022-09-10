@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my GitHub!! 👋
+ My name is Yong Geun Jang.
+ I'm studying programming at Gachon Univ in Korea.
 
 <!--
 **yonggeunjang/yonggeunjang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
